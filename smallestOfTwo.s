@@ -12,3 +12,4 @@ area smallestOfTwo, code
  
 small str r2,[r3]
 stop b stop
+end
